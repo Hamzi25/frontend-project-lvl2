@@ -1,0 +1,26 @@
+{
+  "name": "@hexlet/code",
+  "version": "1.0.0",
+  "bin": {
+    "gendiff": "bin/gendiff.js"
+  },
+  "description": "second project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hamzi25/frontend-project-lvl2.git"
+  },
+  "author": "Hamza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Hamzi25/frontend-project-lvl2/issues"
+  },
+  "homepage": "https://github.com/Hamzi25/frontend-project-lvl2#readme",
+  "dependencies": {
+    "commander": "^9.4.0"
+  }
+}
