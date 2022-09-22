@@ -6,3 +6,5 @@
 [![asciicast](https://asciinema.org/a/XpIybnTEvd3bXGJMjsi4ZkLQP.svg)](https://asciinema.org/a/XpIybnTEvd3bXGJMjsi4ZkLQP)
 ### Checking yaml
 [![asciicast](https://asciinema.org/a/raq8BLmMYD3aESQAhuRwnmRMc.svg)](https://asciinema.org/a/raq8BLmMYD3aESQAhuRwnmRMc)
+### Checking nested json and yaml files
+[![asciicast](https://asciinema.org/a/Pc2WCLkEEuYMIzrBGzfRqNdiq.svg)](https://asciinema.org/a/Pc2WCLkEEuYMIzrBGzfRqNdiq)
