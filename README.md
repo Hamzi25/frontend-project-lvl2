@@ -8,3 +8,5 @@
 [![asciicast](https://asciinema.org/a/raq8BLmMYD3aESQAhuRwnmRMc.svg)](https://asciinema.org/a/raq8BLmMYD3aESQAhuRwnmRMc)
 ### Checking nested json and yaml files
 [![asciicast](https://asciinema.org/a/Pc2WCLkEEuYMIzrBGzfRqNdiq.svg)](https://asciinema.org/a/Pc2WCLkEEuYMIzrBGzfRqNdiq)
+### Checking plain formatter on json and yaml files
+[![asciicast](https://asciinema.org/a/LYsHYgniXB6WpuT7CEa0AYFBK.svg)](https://asciinema.org/a/LYsHYgniXB6WpuT7CEa0AYFBK)
