@@ -10,3 +10,5 @@
 [![asciicast](https://asciinema.org/a/Pc2WCLkEEuYMIzrBGzfRqNdiq.svg)](https://asciinema.org/a/Pc2WCLkEEuYMIzrBGzfRqNdiq)
 ### Checking plain formatter on json and yaml files
 [![asciicast](https://asciinema.org/a/LYsHYgniXB6WpuT7CEa0AYFBK.svg)](https://asciinema.org/a/LYsHYgniXB6WpuT7CEa0AYFBK)
+### Checking json formatter on json and yml files
+[![asciicast](https://asciinema.org/a/T7vI1XGyWh07raO3bxr7jf16h.svg)](https://asciinema.org/a/T7vI1XGyWh07raO3bxr7jf16h)
