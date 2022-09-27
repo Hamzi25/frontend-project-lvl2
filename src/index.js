@@ -1,6 +1,6 @@
 import process from 'process';
 import { resolve } from 'path';
-import fs from 'node:fs';
+import { readFileSync } from 'node:fs';
 import _ from 'lodash';
 import parse from './parsers.js';
 import diffToString from './formatters/index.js';
@@ -8,7 +8,7 @@ import buildDiff from './buildNewTree.js';
 
 const getFixturePath = (filepath) => resolve(process.cwd(), filepath);
 
-const parseFileAsString = (filePath) => fs.readFileSync(getFixturePath(filePath), 'utf8');
+const parseFileAsString = (filePath) => readFileSync(getFixturePath(filePath), 'utf8');
 
 const getExtension = (filePath) => _.last(filePath.split('.')).toLowerCase();
 
