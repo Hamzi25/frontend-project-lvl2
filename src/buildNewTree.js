@@ -17,7 +17,9 @@ const builder = (obj1, obj2) => {
     if (!_.has(obj1, key)) {
       return { name: key, value: obj2[key], type: 'added' };
     }
-    return { name: key, value1: obj1[key], value2: obj2[key], type: 'updated' };
+    return {
+      name: key, value1: obj1[key], value2: obj2[key], type: 'updated',
+    };
   });
   return diff;
 };
