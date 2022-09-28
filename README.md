@@ -2,7 +2,7 @@
 [![Actions Status](https://github.com/Hamzi25/frontend-project-lvl2/workflows/hexlet-check/badge.svg)](https://github.com/Hamzi25/frontend-project-lvl2/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/a88d8eeb3c439c72b6b9/maintainability)](https://codeclimate.com/github/Hamzi25/frontend-project-lvl2/maintainability)
 [![Node.js CI](https://github.com/Hamzi25/frontend-project-lvl2/actions/workflows/nodejs.yml/badge.svg)](https://github.com/Hamzi25/frontend-project-lvl2/actions/workflows/nodejs.yml)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/aa1d9cc699b294be7f06683eeaeb8f0ff79cd80a44520e33fdc924d971492be0/test_coverage)](https://codeclimate.com/github/Hamzi25/frontend-project-lvl2/test_coverage)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/a88d8eeb3c439c72b6b9/test_coverage)](https://codeclimate.com/github/Hamzi25/frontend-project-lvl2/test_coverage)
 
 ### Вычислитель отличий
 Данная программа позволяет проверять схожесть и различие двух файлов одинакового формата.
