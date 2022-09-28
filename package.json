@@ -18,6 +18,9 @@
     "type": "git",
     "url": "git+https://github.com/Hamzi25/frontend-project-lvl2.git"
   },
+  "keywords": [
+    "hexlet"
+  ],
   "author": "Hamza",
   "license": "ISC",
   "bugs": {

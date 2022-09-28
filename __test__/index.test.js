@@ -1,16 +1,13 @@
 import { fileURLToPath } from 'url';
-import { dirname, resolve } from 'node:path';
+import { dirname, resolve } from 'path';
 import { readFileSync } from 'node:fs';
 import getDiff from '../src/index.js';
 
 const __filename = fileURLToPath(import.meta.url);
-console.log(__filename, '////');
 const __dirname = dirname(__filename);
 
 const getFixturePath = (filename) => resolve(__dirname, '..', '__fixtures__', filename);
-console.log(getFixturePath, '////');
 const readFile = (filename) => readFileSync(getFixturePath(filename), 'utf-8');
-console.log(readFile, '////');
 
 const formats = ['stylish', 'plain', 'json'];
 
