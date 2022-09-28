@@ -15,7 +15,10 @@ plugins:
   - jest
 rules:
   no-console: 0
-  import/extensions: 0
+  import/extensions:
+    - error
+    - ignorePackages
+    - js: always
   no-underscore-dangle: [2, { "allow": ["__filename", "__dirname"] }]
   fp/no-nil: 0
   fp/no-unused-expression: 0
