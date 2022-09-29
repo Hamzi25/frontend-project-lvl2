@@ -19,6 +19,6 @@ test.each(formats)('JSON file test', (format) => {
 
 test.each(formats)('YAML file test', (format) => {
   const actual = getDiff(getFixturePath('file1.yml'), getFixturePath('file2.yml'), format);
-  const expected = readFile(`${format}Result.txt`).trim();
+  const expected = readFile(`${format}Result2.txt`).trim();
   expect(actual).toEqual(expected);
 });
